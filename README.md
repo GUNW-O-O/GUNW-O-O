@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUNW-O-O&show_icons=true&theme=transparent)
 
 <br><br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUNW-O-O&langs_count=8)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUNW-O-O&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
