@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GUNW-O-O&show_icons=true&theme=transparent)
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUNW-O-O&langs_count=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GUNW-O-O&langs_count=5)
 
 <!--
 **GUNW-O-O/GUNW-O-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
