@@ -10,7 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GUNW-O-O&theme=vue-dark"/>
   </div> 
   <div align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=GUNW-O-O&theme=vue-dark&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GUNW-O-O&theme=vue-dark&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" /></a>
   </div>
 </div>
 
