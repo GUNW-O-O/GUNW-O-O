@@ -1,6 +1,8 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&text=GUNWOO&animation=twinkling&fontSize=50&fontAlign=68&fontAlignY=50&section=header%20render)](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hello%20Github!🚀&fontSize=60&fontAlignY=35&animation=twinkling&desc=-GUNWOO&descAlignY=55&descAlign=70&rotate=-5&fontAlign=45)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github!🚀&section=header&animation=twinkling&fontSize=60&rotate=-5&desc=-GUNW-O-O&descAlign=65&descAlignY=80"/>
+
 ## Hi there 👋
 
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <div align= "center"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
@@ -15,7 +17,6 @@
   </div>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -49,3 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github!🚀&section=footer&animation=twinkling&fontSize=60&rotate=-5&desc=-GUNW-O-O&descAlign=65&descAlignY=80"/>
