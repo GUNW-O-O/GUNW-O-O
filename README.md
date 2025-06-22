@@ -10,10 +10,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GUNW-O-O&theme=vue-dark"/>
   </div> 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUNW-O-O&layout=compact&theme=vue-dark"/>
-  </div>
-  <div>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GUNW-O-O&theme=vue-dark&hide_border=true&border_radius=5&locale=ko" alt="GitHub Streak" /></a>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=GUNW-O-O&theme=vue-dark&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=450)](https://git.io/streak-stats)
   </div>
 </div>
 
