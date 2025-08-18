@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github🚀&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=35&rotate=-5&desc=-%20GUNW-O-O&descAlign=72&descAlignY=55"/>
 
-## Hi there 👋
+## Hi there 👋 
+<a href="https://gunw-o-o.github.io/aboutMe/">about ME</a>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
