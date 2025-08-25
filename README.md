@@ -2,9 +2,9 @@
 
 ## Hi there 👋 
 <div align=center>
-	<img src="https://img.shields.io/badge/aboutdotme-333333?style=for-the-badge&logo=aboutdotme&logoColor=white">
-    <a href="https://gunw-o-o.github.io/aboutMe/" target='_blank'>about ME</a>
-  </img>
+	<a href="https://gunw-o-o.github.io/aboutMe/" target='_blank'>
+		<img src="https://img.shields.io/badge/aboutdotme-333333?style=for-the-badge&logo=aboutdotme&logoColor=white">
+	</a>
 </div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
