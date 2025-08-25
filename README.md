@@ -5,9 +5,9 @@
 <div align=center>
 	<a href="https://gunw-o-o.github.io/aboutMe/" target='_blank'>
 		<img src="https://img.shields.io/badge/about.me-333333?style=for-the-badge&logo=aboutdotme&logoColor=white">
-		<br>
 	</a>
 </div>
+<br>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
