@@ -11,10 +11,11 @@
       <img src="./img/Developer.png" width="128" />
     </td>
     <td align="center" valign="middle">
-      <strong>집중은 💻🔥 쉴 때도 🎧💻 놀아도 🎧💻</strong><br/><br/>
+      <strong>집중은 💻🔥 쉴 때도 🎧💻 취미도 🎧💻</strong><br/><br/>
       <a href="https://gunw-o-o.github.io/aboutMe/">
         <img src="https://img.shields.io/badge/about.me-3B82F6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
-      </a>
+      </a><br/>
+      <small>⚠️ 리드미 특성상 새 탭 열기가 지원되지 않습니다.</small>
     </td>
   </tr>
 </table>
