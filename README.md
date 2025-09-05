@@ -19,7 +19,10 @@
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> **Github Streaks**
+<h2>
+  <img src="./img/Fire.png" width="64" /> Full Stack Developer
+</h2>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="64" height="64" /> **Github Streaks**
 
 <div align= "center"> 
   <div align="center">
@@ -33,6 +36,18 @@
 
 
 ---
+
+<h2>
+  <img src="./img/Projects.png" width="64" /> Full Stack Developer
+</h2>
+
+
+| 리포지토리 | 담당역할 |
+|------------|------|
+| <a href="https://github.com/Lee-0210/Resonos_React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lee-0210&repo=Resonos_React&theme=blue" width="300"/></a> | ResonosReact |
+| <a href="https://github.com/ruff1376/Resonos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=Resonos&theme=blue" width="300"/></a> | Resonos |
+
+
 
 <!--
 <div align= "center">
