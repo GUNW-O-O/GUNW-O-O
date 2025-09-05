@@ -3,7 +3,7 @@
 </div>
 
 <h2>
-  <img src="./img/Rocket.png" width="64" /> Full Stack Developer
+  <img src="./img/Rocket.png" width="64" /> Who Am I?
 </h2>
 <table>
   <tr>
@@ -18,11 +18,11 @@
     </td>
   </tr>
 </table>
+<br>
 
 <h2>
-  <img src="./img/Fire.png" width="64" /> Full Stack Developer
+  <img src="./img/Fire.png" width="64" /> Github Streaks
 </h2>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="64" height="64" /> **Github Streaks**
 
 <div align= "center"> 
   <div align="center">
@@ -34,19 +34,30 @@
   </div> 
 </div>
 
-
----
+<br>
 
 <h2>
-  <img src="./img/Projects.png" width="64" /> Full Stack Developer
+  <img src="./img/Projects.webp" width="64" /> Projects
 </h2>
 
 
 | 리포지토리 | 담당역할 |
 |------------|------|
-| <a href="https://github.com/Lee-0210/Resonos_React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lee-0210&repo=Resonos_React&theme=blue" width="300"/></a> | ResonosReact |
-| <a href="https://github.com/ruff1376/Resonos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=Resonos&theme=blue" width="300"/></a> | Resonos |
+| <a href="https://github.com/ruff1376/AI3_MINI1_TEAM3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=AI3_MINI1_TEAM3&theme=blue" width="300"/></a> | 기구관리, 매출관리 부분을 담당하였습니다. |
+| <a href="https://github.com/ruff1376/Resonos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=Resonos&theme=blue" width="300"/></a> | 유저의 메인 사용 페이지를 담당하였습니다. |
+| <a href="https://github.com/Lee-0210/Resonos_React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lee-0210&repo=Resonos_React&theme=blue" width="300"/></a> | 담당했던 페이지들을 리액트로 변경, 자유 커뮤니티 게시글 페이지, 투표 기능을 담당하였습니다. |
 
+
+<br>
+
+<h2>
+  <img src="./img/Curious.png" width="64" /> Discovering...
+</h2>
+
+
+| 리포지토리 | 기술 스택 | 이유 |
+|------------|------|----|
+| <a href="https://github.com/GUNW-O-O/quiz-works"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GUNW-O-O&repo=quiz-works&theme=blue" width="300"/></a> | TypeScript, NestJS, MongoDB | TypeScript와 NestJS 가 안정적이고, 단어장은 NoSQL 이 적합하다 판단하였습니다.  |
 
 
 <!--
