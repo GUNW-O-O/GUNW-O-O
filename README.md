@@ -1,25 +1,29 @@
+<div align= "center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github🚀&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=35&rotate=-5&desc=-%20GUNW-O-O&descAlign=72&descAlignY=55"/>
-
-## Hi there 👋 
-<br>
-<div align=center>
-	<a href="https://gunw-o-o.github.io/aboutMe/" target="_blank" rel="noopener noreferrer">
-		<img src="https://img.shields.io/badge/about.me-333333?style=for-the-badge&logo=aboutdotme&logoColor=white">
-	</a>
 </div>
-<br>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+<p align="center">
+  <strong>🚀 Full Stack Developer | Keep Learning, Keep Building</strong><br><br>
+  <a href="https://gunw-o-o.github.io/aboutMe/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/about.me-3B82F6?style=for-the-badge&logo=aboutdotme&logoColor=black">
+  </a>
+</p>
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> **Github Streaks**
 
 <div align= "center"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-  <div align= "center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=GUNW-O-O&theme=vue-dark"/>
-  </div> 
   <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GUNW-O-O&theme=vue-dark&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" /></a>
+  	<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D profile" width="600" />
   </div>
+  <div align= "center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=GUNW-O-O&theme=vue-dark" width="450" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GUNW-O-O&theme=vue-dark&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=400" alt="GitHub Streak" /></a>
+  </div> 
 </div>
+
+
+---
 
 <!--
 <div align= "center">
@@ -54,4 +58,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align= "center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github!🚀&section=footer&animation=twinkling&fontSize=60&rotate=-5&desc=-GUNW-O-O&descAlign=65&descAlignY=80"/>
+</div>
