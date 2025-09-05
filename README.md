@@ -5,14 +5,19 @@
 <h2>
   <img src="./img/Rocket.png" width="64" /> Full Stack Developer
 </h2>
-<p>
-  <img src="./img/Rocket.png" width="128" /> <Strong>집중은 💻 쉴 때도 🎧💻 놀아도 🎧💻</Strong>
-</p>
-
-
-[![About Me](https://img.shields.io/badge/about.me-ff6f61?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://gunw-o-o.github.io/aboutMe/)
-
-
+<table>
+  <tr>
+    <td>
+      <img src="./img/Developer.png" width="128" />
+    </td>
+    <td align="center" valign="middle">
+      <strong>집중은 💻 쉴 때도 🎧💻 놀아도 🎧💻</strong><br/><br/>
+      <a href="https://gunw-o-o.github.io/aboutMe/">
+        <img src="https://img.shields.io/badge/about.me-3B82F6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> **Github Streaks**
 
