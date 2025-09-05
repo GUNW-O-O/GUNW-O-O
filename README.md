@@ -2,12 +2,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github🚀&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=35&rotate=-5&desc=-%20GUNW-O-O&descAlign=72&descAlignY=55"/>
 </div>
 
-<p align="center">
-  <strong>🚀 Full Stack Developer | Keep Learning, Keep Building</strong><br><br>
-  <a href="https://gunw-o-o.github.io/aboutMe/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/about.me-3B82F6?style=for-the-badge&logo=aboutdotme&logoColor=black">
-  </a>
+<h2>
+  <img src="./img/Rocket.png" width="64" /> Full Stack Developer
+</h2>
+<p>
+  <img src="./img/Rocket.png" width="128" /> <Strong>집중은 💻 쉴 때도 🎧💻 놀아도 🎧💻</Strong>
 </p>
+
+
+[![About Me](https://img.shields.io/badge/about.me-ff6f61?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://gunw-o-o.github.io/aboutMe/)
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> **Github Streaks**
@@ -17,8 +21,8 @@
   	<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D profile" width="600" />
   </div>
   <div align= "center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=GUNW-O-O&theme=vue-dark" width="450" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GUNW-O-O&theme=vue-dark&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=400" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=GUNW-O-O&theme=vue-dark" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GUNW-O-O&theme=vue-dark&border_radius=5&locale=ko&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" /></a>
   </div> 
 </div>
 
