@@ -15,7 +15,7 @@
       <a href="https://gunw-o-o.github.io/aboutMe/">
         <img src="https://img.shields.io/badge/about.me-3B82F6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
       </a><br/>
-      <small>⚠️ 리드미 특성상 새 탭 열기가 지원되지 않습니다.</small>
+      <small>⚠️우클릭 새 탭에서 열기를 추천해 드립니다.</small>
     </td>
   </tr>
 </table>
@@ -38,7 +38,7 @@
 <br>
 
 <h2>
-  <img src="./img/Projects.webp" width="64" /> Projects
+  <img src="./img/Projects.webp" width="64" /> Team Projects
 </h2>
 
 
