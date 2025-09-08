@@ -58,7 +58,7 @@
 
 | 리포지토리 | 기술 스택 | 이유 |
 |------------|------|----|
-| <a href="https://github.com/GUNW-O-O/quiz-works"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GUNW-O-O&repo=quiz-works&theme=blue" width="300"/></a> | TypeScript, NestJS, MongoDB | TypeScript와 NestJS 가 안정적이고, 단어장은 NoSQL 이 적합하다 판단하였습니다.  |
+| <a href="https://github.com/GUNW-O-O/lexi-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GUNW-O-O&repo=lexi-hub&theme=blue" width="300"/></a> | TypeScript, NestJS, MongoDB | TypeScript와 NestJS 가 안정적이고, 단어장은 NoSQL 이 적합하다 판단하였습니다.  |
 
 
 <!--
