@@ -58,8 +58,8 @@
 
 | 리포지토리 | 기술 스택 | 이유 |
 |------------|------|----|
-| <a href="https://github.com/GUNW-O-O/lexi-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GUNW-O-O&repo=lexi-hub&theme=blue" width="300"/></a> | TypeScript, NestJS, MongoDB | TypeScript와 NestJS 가 안정적이고, 단어장은 NoSQL 이 적합하다 판단하였습니다.  |
-
+| <a href="https://github.com/GUNW-O-O/lexi-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GUNW-O-O&repo=lexi-hub&theme=blue" width="300"/></a> | TypeScript, NestJS, MongoDB, JWT | 짧은 시간 내에 익숙한 React와 TypeScript를 활용해 FSD 구조로 개발하고, NestJS와 MongoDB를 학습하며 모듈화와 NoSQL 데이터 모델을 경험하고, JWT 기반 인증 흐름을 학습하며 구현했습니다.  |
+| <a href="https://github.com/GUNW-O-O/lexi-hub-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GUNW-O-O&repo=lexi-hub-backend&theme=blue" width="300"/></a> | TypeScript, NestJS, MongoDB, JWT | 위 프로젝트의 백엔드 리포지토리 입니다  |
 
 <!--
 <div align= "center">
