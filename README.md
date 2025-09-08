@@ -44,9 +44,9 @@
 
 | 리포지토리 | 담당역할 |
 |------------|------|
-| <a href="https://github.com/ruff1376/AI3_MINI1_TEAM3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=AI3_MINI1_TEAM3&theme=blue" width="300"/></a> | 기구관리, 매출관리 부분을 담당하였습니다. |
-| <a href="https://github.com/ruff1376/Resonos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=Resonos&theme=blue" width="300"/></a> | 유저의 메인 사용 페이지를 담당하였습니다. |
-| <a href="https://github.com/Lee-0210/Resonos_React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lee-0210&repo=Resonos_React&theme=blue" width="300"/></a> | 담당했던 페이지들을 리액트로 변경, 자유 커뮤니티 게시글 페이지, 투표 기능을 담당하였습니다. |
+| <a href="https://github.com/Lee-0210/Resonos_React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lee-0210&repo=Resonos_React&theme=blue" width="300"/></a> | 타임리프 기반 프로젝트를 React로 전환하며 담당했던 컨트롤러를 리팩토링하고, 프론트엔드로는 추가된 자유 커뮤니티 게시글 작성 및 상세 페이지 및 투표 기능을 구현했습니다. 또한 프론트엔드 작업시 백엔드 개선점도 전달했습니다. 비회원 게시글/댓글 기능도 구현하며 조건부 렌더링 처리에 집중했습니다. |
+| <a href="https://github.com/ruff1376/Resonos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=Resonos&theme=blue" width="300"/></a> | 아티스트, 트랙, 앨범 상세 페이지 등 메인 사용 페이지를 담당하였으며, 핵심 상호작용 기능을 비동기 요청으로 보내며 즉각적인 피드백을 구현했습니다. 추가적으로 YouTube API를 활용하여 videoId를 가져오는 기능을 구현했습니다. |
+| <a href="https://github.com/ruff1376/AI3_MINI1_TEAM3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=AI3_MINI1_TEAM3&theme=blue" width="300"/></a> | 기구 관리 및 매출 관리 기능을 담당하였으며, 매출관련으로는 chart.js를 활용하여 시각화 기능을 구현했습니다. |
 
 
 <br>
