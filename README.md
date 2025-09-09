@@ -11,7 +11,7 @@
       <img src="./img/Developer.png" width="128" />
     </td>
     <td align="center" valign="middle">
-      <strong>집중은 💻🔥 쉴 때도 🎧💻 취미도 🎧💻</strong><br/><br/>
+      <strong>개발툴 켜면 💻🔥 끄면 🎧💻 하루종일 🎧💻</strong><br/><br/>
       <a href="https://gunw-o-o.github.io/aboutMe/">
         <img src="https://img.shields.io/badge/about.me-3B82F6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
       </a><br/>
