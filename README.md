@@ -1,94 +1,60 @@
-<div align= "center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github🚀&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=35&rotate=-5&desc=-%20GUNW-O-O&descAlign=72&descAlignY=55"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github🚀&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=35&rotate=-5&desc=-%20GUNW-O-O&descAlign=72&descAlignY=55" alt="header" />
 </div>
 
-<h2>
-  <img src="./img/Rocket.png" width="64" /> Who Am I?
-</h2>
+<h2><img src="./img/Rocket.png" width="40" align="top" /> Who Am I?</h2>
+
 <table>
   <tr>
-    <td>
-      <img src="./img/Developer.png" width="128" />
+    <td width="160" align="center">
+      <img src="./img/Developer.png" width="128" alt="developer" />
     </td>
-    <td align="center" valign="middle">
-      <strong>💻🔥🔥🔥🔥</strong><br/><br/>
+    <td>
+      <strong>프로그래머가 아니라 개발자, 고건우입니다.</strong><br/><br/>
+      돌아가게 만드는 건, 이제 누구나 가능합니다.<br/>
+      그래서 코드를 짜기 전에 <strong>무엇을 어떻게 만들지 설계하는 데</strong> 더 많은 시간을 씁니다.
+      <br/>
+      <br/>
       <a href="https://gunw-o-o.github.io/aboutMe/">
         <img src="https://img.shields.io/badge/about.me-3B82F6?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="About Me" />
-      </a><br/>
-      <small>⚠️우클릭 새 탭에서 열기를 추천해 드립니다.</small>
+      </a>
+      <a href="mailto:go971230@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
     </td>
   </tr>
 </table>
+
 <br>
 
-<h2>
-  <img src="./img/Fire.png" width="64" /> Github Streaks
-</h2>
+
+<h2><img src="./img/Projects.webp" width="40" align="top" /> Team Projects</h2>
+
+| 리포지토리 | 기술 스택 | 담당 역할 |
+|---|---|---|
+| [Resonos-React](https://github.com/Lee-0210/Resonos_React) | React, Spring Boot | Thymeleaf 프로젝트의 React 전환. 담당 컨트롤러 리팩토링, 커뮤니티 게시글 · 투표 기능 구현, 비회원 게시글/댓글의 조건부 렌더링 처리 |
+| [Resonos](https://github.com/ruff1376/Resonos) | Spring Boot, Thymeleaf | 아티스트 · 트랙 · 앨범 상세 페이지 담당. 핵심 상호작용을 비동기 요청으로 처리해 즉각적인 피드백 구현, YouTube API 연동 |
+| [할건해야짐](https://github.com/ruff1376/AI3_MINI1_TEAM3) | Spring Boot, chart.js | 기구 관리 · 매출 관리 기능 담당, chart.js 기반 매출 시각화 |
+
+<br>
+
+<h2><img src="./img/Curious.png" width="40" align="top" /> Personal Projects</h2>
+
+| 리포지토리 | 기술 스택 | 내용 |
+|---|---|---|
+| [Playsync](https://github.com/GUNW-O-O/playsync) | NestJS, Next.js, Redis, PostgreSQL, WebSocket | 여러 사용자가 동일한 게임 상태를 공유하는 환경에서, 서버가 상태를 일관되게 관리 · 전파하는 실시간 동기화 구조 설계 |
+| [Lexi-hub FE](https://github.com/GUNW-O-O/lexi-hub) / [BE](https://github.com/GUNW-O-O/lexi-hub-backend) | TypeScript, React(FSD), NestJS, MongoDB, JWT | FSD 아키텍처 학습, NestJS 모듈화와 NoSQL 데이터 모델링, JWT 기반 인증 흐름 구현 |
+| [Lexi-hub Flutter](https://github.com/GUNW-O-O/lexi-hub-flutter) | Flutter, Dart | Lexi-hub 백엔드를 활용한 크로스 플랫폼 클라이언트 |
+| [AboutMe](https://github.com/GUNW-O-O/aboutMe) | TypeScript, React | 포트폴리오 SPA — 상단 about.me 배지에서 확인 가능 |
+
+<br>
+
+<h2><img src="./img/Fire.png" width="40" align="top" /> GitHub Stats</h2>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D profile" width="600" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" width="600" />
 </div>
 
-<br>
-
-<h2>
-  <img src="./img/Projects.webp" width="64" /> Team Projects
-</h2>
-
-
-| 리포지토리 | 담당역할 |
-|------------|------|
-| <a href="https://github.com/Lee-0210/Resonos_React">Resonos-React</a> | 타임리프 기반 프로젝트를 React로 전환하며 담당했던 컨트롤러를 리팩토링하고, 프론트엔드로는 추가된 자유 커뮤니티 게시글 작성 및 상세 페이지 및 투표 기능을 구현했습니다. 또한 프론트엔드 작업시 백엔드 개선점도 전달했습니다. 비회원 게시글/댓글 기능도 구현하며 조건부 렌더링 처리에 집중했습니다. |
-| <a href="https://github.com/ruff1376/Resonos">Resonos-Thymelaef</a> | 아티스트, 트랙, 앨범 상세 페이지 등 메인 사용 페이지를 담당하였으며, 핵심 상호작용 기능을 비동기 요청으로 보내며 즉각적인 피드백을 구현했습니다. 추가적으로 YouTube API를 활용하여 videoId를 가져오는 기능을 구현했습니다. |
-| <a href="https://github.com/ruff1376/AI3_MINI1_TEAM3">할건해야짐</a> | 기구 관리 및 매출 관리 기능을 담당하였으며, 매출관련으로는 chart.js를 활용하여 시각화 기능을 구현했습니다. |
-
-
-<br>
-
-<h2>
-  <img src="./img/Curious.png" width="64" /> Discovering...
-</h2>
-
-
-| 리포지토리 | 기술 스택 |  |
-|------------|------|----|
-| <a href="https://github.com/GUNW-O-O/playsync">Playsync</a> | NestJS, Next.js, Redis, Postgre, WS | 여러 사용자가 동시에 참여해 동일한 게임 상태를 공유하는 환경에서 서버가 상태를 일관되게 관리하고 전파하는 실시간 상태 처리 구조를 설계  |
-| <a href="https://github.com/GUNW-O-O/lexi-hub">Lexi-hub FE</a> | TypeScript, NestJS, MongoDB, JWT | 비교적 익숙한 React와 TypeScript를 활용해 FSD 구조를 학습하며 개발하고, NestJS와 MongoDB를 학습하며 모듈화와 NoSQL 데이터 모델을 경험하고, JWT 기반 인증 흐름을 학습하며 구현했습니다.  |
-| <a href="https://github.com/GUNW-O-O/lexi-hub-backend">Lexi-hub BE</a> | TypeScript, NestJS, MongoDB, JWT | 위 프로젝트의 백엔드 리포지토리 입니다  |
-| <a href="https://github.com/GUNW-O-O/aboutme">AboutMe</a> | TypeScript, React | TypeScript를 이용한 SPA 구현  |
-<!--
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          </div>
-    </div>
--->
-
-<!--
-**GUNW-O-O/GUNW-O-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align= "center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github!🚀&section=footer&animation=twinkling&fontSize=60&rotate=-5&desc=-GUNW-O-O&descAlign=65&descAlignY=80"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github!🚀&section=footer&animation=twinkling&fontSize=60&rotate=-5&desc=-GUNW-O-O&descAlign=65&descAlignY=80" alt="footer" />
 </div>
