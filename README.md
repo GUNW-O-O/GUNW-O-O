@@ -56,5 +56,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github!🚀&section=footer&animation=twinkling&fontSize=60&rotate=-5&desc=-GUNW-O-O&descAlign=65&descAlignY=80" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Thanks%20for%20visiting!👋&section=footer&animation=twinkling&fontSize=50&rotate=-5&desc=-%20GUNW-O-O&descAlign=68&descAlignY=80" alt="footer" />
 </div>
