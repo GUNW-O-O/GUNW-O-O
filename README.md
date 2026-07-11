@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=timeGradient&text=Hello%20Github🚀&fontSize=60&animation=twinkling&fontAlign=50&fontAlignY=35&rotate=-5&desc=-%20GUNW-O-O&descAlign=72&descAlignY=55" alt="header" />
 </div>
 
-<h2><img src="./img/Rocket.png" width="40" align="top" /> Who Am I?</h2>
+<h2><img src="./img/Rocket.png" width="40" /> 프로그래머가 아니라 개발자, 고건우입니다.</h2>
 
 <table>
   <tr>
@@ -10,7 +10,7 @@
       <img src="./img/Developer.png" width="128" alt="developer" />
     </td>
     <td>
-      <strong>프로그래머가 아니라 개발자, 고건우입니다.</strong><br/><br/>
+      <br/>
       돌아가게 만드는 건, 이제 누구나 가능합니다.<br/>
       그래서 코드를 짜기 전에 <strong>무엇을 어떻게 만들지 설계하는 데</strong> 더 많은 시간을 씁니다.
       <br/>
@@ -33,8 +33,8 @@
 | 리포지토리 | 기술 스택 | 담당 역할 |
 |---|---|---|
 | [Resonos-React](https://github.com/Lee-0210/Resonos_React) | React, Spring Boot | Thymeleaf 프로젝트의 React 전환. 담당 컨트롤러 리팩토링, 커뮤니티 게시글 · 투표 기능 구현, 비회원 게시글/댓글의 조건부 렌더링 처리 |
-| [Resonos](https://github.com/ruff1376/Resonos) | Spring Boot, Thymeleaf | 아티스트 · 트랙 · 앨범 상세 페이지 담당. 핵심 상호작용을 비동기 요청으로 처리해 즉각적인 피드백 구현, YouTube API 연동 |
-| [할건해야짐](https://github.com/ruff1376/AI3_MINI1_TEAM3) | Spring Boot, chart.js | 기구 관리 · 매출 관리 기능 담당, chart.js 기반 매출 시각화 |
+| [Resonos](https://github.com/ruff1376/Resonos) | Spring Boot, Thymeleaf | 아티스트 · 트랙 · 앨범 상세 페이지 담당. 핵심 상호작용을 비동기 요청으로 처리해 즉각적인 피드백 구현, YouTube API 연동, API값 필터링 |
+| [할건해야짐](https://github.com/ruff1376/AI3_MINI1_TEAM3) | Spring Boot, chart.js | 기구 관리 · 매출 관리 기능 담당(chart.js 기반 매출 시각화) |
 
 <br>
 
